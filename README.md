@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**kira8ke/kira8ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 😊 I'm Gloria Wanyaga — aka kira8ke  
+🚀 Junior DevOps Engineer • 💻 Web Developer • 🧠 AI/ML Explorer  
+🔐 Championing Secure, Scalable, and Smart Tech Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♀️ About Me
+I'm a curious, hands-on tech enthusiast passionate about building systems that are smart, secure, and scalable.  
+Currently diving deep into DevSecOps, Cloud, and AIOps — while advocating for inclusive tech communities and cybersecurity awareness.
+
+🚗 When I’m not debugging code, I’m probably geeking out over turbochargers and torque curves.  
+I like my code like I like my cars — **clean, efficient, and fast**.
+
+---
+
+### 🔧 Technologies & Tools
+
+| Domain                   | Tools & Technologies |
+|--------------------------|-----------------------|
+| 🛠 DevOps & Cloud        | Docker, Terraform, Kubernetes, GitHub Actions, AWS (learning) |
+| 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, React, Next.js (learning), OOP |
+| 🔐 Cybersecurity          | Ethical Hacking Basics, API Security, DevSecOps |
+| 📊 Data & AI             | Python (Pandas, NumPy), SQL, Data Viz, MLOps basics |
+
+---
+
+### 🌱 What I'm Learning
+- CloudOps & CI/CD workflows  
+- React + Next.js frontend frameworks  
+- AIOps, MLOps & model monitoring  
+- Advanced cybersecurity practices   
+
+---
+
+### 📈 GitHub Stats
+
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=kira8ke&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira8ke&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gloria%20Wanyaga-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gloria-wanyaga-3b9050267/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&style=flat-square)](https://kira8ke.github.io) *(if you have one!)*
+
+---
+
+> “Be all that you are capable of becoming.” ✨
