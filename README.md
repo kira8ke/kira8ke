@@ -43,7 +43,7 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gloria%20Wanyaga-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gloria-wanyaga-3b9050267/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&style=flat-square)](https://kira8ke.github.io) *(if you have one!)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&style=flat-square)](https://wanyaga.netlify.app/) 
 
 ---
 
