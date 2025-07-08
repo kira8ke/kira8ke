@@ -27,7 +27,7 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 
 ### 🌱 What I'm Learning
 - DevOps & CI/CD workflows  
-- React + Next.js frontend frameworks  
+- Dart + Flutter  
 - AIOps, MLOps & model monitoring  
 - Advanced cybersecurity practices   
 
