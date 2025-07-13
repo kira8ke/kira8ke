@@ -19,7 +19,7 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 | Domain                   | Tools & Technologies |
 |--------------------------|-----------------------|
 | 🛠 DevOps & Cloud        | Docker, Terraform, Kubernetes, GitHub Actions, AWS (learning) |
-| 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, React, Next.js (learning), OOP |
+| 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, Dart and Flutter (learning), OOP |
 | 🔐 Cybersecurity          | Ethical Hacking Basics, API Security, DevSecOps |
 | 📊 Data & AI             | Python (Pandas, NumPy), SQL, Data Viz, MLOps basics |
 
