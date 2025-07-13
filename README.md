@@ -21,7 +21,7 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 | 🛠 DevOps & Cloud        | Docker, Terraform, Kubernetes, GitHub Actions, AWS (learning) |
 | 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, Dart and Flutter (learning), OOP |
 | 🔐 Cybersecurity          | Ethical Hacking Basics, API Security, DevSecOps |
-| 📊 Data & AI             | Python (Pandas, NumPy), SQL, Data Viz, MLOps basics |
+| 📊 Data & AI             | Python  SQL, MLOps basics |
 
 ---
 
