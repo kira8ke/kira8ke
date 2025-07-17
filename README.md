@@ -1,6 +1,7 @@
 
 # Hello there! 😊 I'm Gloria Wanyaga — aka kira8ke  
 🚀 Junior DevOps Engineer • 💻 Web Developer • 🧠 AI/ML Explorer • 🧠 App Developer(Upcoming)
+
 🔐 Championing Secure, Scalable, and Smart Tech Solutions  
 
 ---
