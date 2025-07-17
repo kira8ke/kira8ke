@@ -19,7 +19,7 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 | Domain                   | Tools & Technologies |
 |--------------------------|-----------------------|
 | 🛠 DevOps & Cloud        | Docker, Terraform, Kubernetes, GitHub Actions, AWS (learning) |
-| 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, Dart and Flutter (learning), OOP |
+| 💻 Programming           | Python, Java, C++, HTML, CSS, Matlab, Dart and Flutter (learning), Laravel, Vue.js, OOP |
 | 🔐 Cybersecurity          | Ethical Hacking Basics, API Security, DevSecOps |
 | 📊 Data & AI             | Python  SQL, MLOps basics |
 
@@ -29,7 +29,8 @@ I like my code like I like my cars — **clean, efficient, and fast**.
 - DevOps & CI/CD workflows  
 - Dart + Flutter  
 - AIOps, MLOps & model monitoring  
-- Advanced cybersecurity practices   
+- Advanced cybersecurity practices
+- App Development ( with Laravel, Vue.js)
 
 ---
 
