@@ -1,6 +1,6 @@
 
 # Hello there! 😊 I'm Gloria Wanyaga 
-🚀 Junior DevOps Engineer • 💻 Web Developer • 🧠 AI/ML Explorer • 🧠 App Developer(Upcoming)
+🚀 Junior DevOps Engineer • 🧠AI & Automation Specialist • 🧠 AI/ML Explorer • 💻 Web Developer
 
 🔐 Championing Secure, Scalable, and Smart Tech Solutions  
 
