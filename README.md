@@ -2,7 +2,7 @@
 
 # Hey there, I'm Gloria Wanyaga 👋
 
-### 🚀 Junior DevOps Engineer • 🔐 DevSecOps Advocate • 🧠 AI/ML Explorer • 💻 Web Developer
+### 🚀 Automation Specialist • DevOps Engineer • AI and ML Enthusiast • Web Developer and Designer
 
 *Championing Secure, Scalable, and Smart Tech Solutions — one pipeline at a time.*
 
@@ -15,9 +15,9 @@
 
 ### 🙋‍♀️ About Me
 
-I'm a curious, hands-on tech enthusiast passionate about building systems that are **smart, secure, and scalable**. I thrive at the intersection of DevSecOps, Cloud infrastructure, and AI Automation — and I'm deeply committed to fostering inclusive tech communities and cybersecurity awareness.
+I'm a curious, hands-on tech enthusiast passionate about building systems that are **smart, secure, and scalable**. I thrive at the intersection of DevOps, Cloud infrastructure, and AI Automation — and I'm deeply committed to fostering inclusive tech communities and cybersecurity awareness.
 
-Currently leveling up in **AIOps, MLOps, Flutter, and advanced cloud architecture**.
+Currently leveling up in **AI Automation, AIOps, Python, and advanced cloud architecture**.
 
 > 🚗 When I'm not debugging pipelines, I'm geeking out over turbochargers and torque curves.  
 > I like my code like I like my cars — **clean, efficient, and fast.**
@@ -39,11 +39,9 @@ Currently leveling up in **AIOps, MLOps, Flutter, and advanced cloud architectur
 ### 🌱 Currently Learning
 
 - ⚙️ Advanced CI/CD workflows & DevOps best practices  
-- 🤖 AI Automation with n8n & AIOps  
-- 📱 Dart + Flutter for mobile development  
+- 🤖 AI Automation with n8n & AIOps   
 - 🧪 MLOps & model monitoring  
-- 🔒 Advanced cybersecurity & DevSecOps practices  
-- 🌐 Full-stack app development with Laravel & Vue.js  
+- 🌐 Full-stack Web development 
 
 ---
 
