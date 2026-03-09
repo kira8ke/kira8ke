@@ -29,7 +29,6 @@ Currently leveling up in **AI Automation, AIOps, Python, and advanced cloud arch
 |---|---|
 | 🛠 **DevOps & Cloud** | Docker · Kubernetes · Terraform · GitHub Actions · AWS *(learning)* |
 | 💻 **Programming** | Python · Java · C++ · HTML · CSS · MATLAB · OOP |
-| 📱 **App Development** | Dart · Flutter *(learning)* · Laravel · Vue.js *(learning)* |
 | 🔐 **Cybersecurity** | Ethical Hacking Basics · API Security · DevSecOps |
 | 🤖 **AI & Automation** | Python · SQL · n8n · Bash Scripting · AI/ML Exploration |
 
