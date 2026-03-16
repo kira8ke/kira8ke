@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Gloria Wanyaga 👋
+# Hey there, I'm Gloria Wanyaga 
 
 ### 🚀 Automation Specialist • DevOps Engineer • AI and ML Enthusiast • Web Developer and Designer
 
