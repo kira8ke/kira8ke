@@ -75,6 +75,6 @@ I'm always open to collaborating and learning from the community!
 
 <div align="center">
 
-*"Be all that you are capable of becoming."* ✨
+*"Que Sera Sera."* ✨
 
 </div>
