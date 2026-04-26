@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Gloria Wanyaga 
+# Hello there, I'm Gloria Wanyaga 
 
-### 🚀 Automation Specialist • DevOps Engineer • AI and ML Enthusiast • Web Developer and Designer
+### Automation Specialist • DevOps Engineer • AI and ML Enthusiast • Web Developer and Designer
 
 *Championing Secure, Scalable, and Smart Tech Solutions — one pipeline at a time.*
 
