@@ -75,6 +75,6 @@ I'm always open to collaborating and learning from the community!
 
 <div align="center">
 
-*"Que Sera Sera."* ✨
+*"Que Sera Sera."* 
 
 </div>
